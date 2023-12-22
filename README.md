@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhanarajan</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 
-- 📫 How to reach me **dhanarajan.seenuvasan@gmail.com**
+- 📫 How to reach me **dhanarajan.seenu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
